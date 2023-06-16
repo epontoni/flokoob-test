@@ -1,0 +1,17 @@
+.container {
+    margin: 0 auto;
+    width: 320px;
+    aspect-ratio: 9 / 16;
+    max-width: 1080px;
+    max-height: 1920px;
+}
+
+#btnCompartir {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+}
+
+img {
+    display: none;
+}
